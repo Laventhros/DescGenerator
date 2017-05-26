@@ -1,0 +1,8 @@
+Battle-axe, slashing
+Flail, bludgeoning
+Great-axe, slashing
+Long-Sword, slashing
+Rapier, piercing
+Short sword, piercing
+Heavy Crossbow, piercing
+Longbow, piercing
